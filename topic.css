@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(35, 184, 35);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+
+}
+.div1{
+    text-align: center;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.div3{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.div4{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+
+.div5{
+    text-align: center;
+}
+.div6{
+    text-align: center;
+}
+.div7{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.div8{
+    text-align: center;
+}
+.div9{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
